@@ -4,4 +4,4 @@
 
 This repo contains the final assignment I completed for the following course: 
 
-www.coursera.org/learn/sql-data-science
+https://www.coursera.org/account/accomplishments/records/LHUJ6R9NT2GB
